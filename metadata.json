@@ -1,0 +1,7 @@
+{
+  "name": "Foundational AI Tutor",
+  "description": "An AI-powered personalized learning platform for students (UKG-5) covering foundational literacy and numeracy with adaptive learning paths and teacher analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
